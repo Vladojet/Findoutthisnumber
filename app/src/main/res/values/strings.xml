@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Find out this number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desired_number_label">Desired number</string>
+    <string name="button_plus_text">+</string>
+    <string name="button_text_1">1</string>
+    <string name="button_text_20">20</string>
+    <string name="button_text_5">5</string>
+    <string name="button_text_10">10</string>
+    <string name="button_find_out_text">Find out</string>
+    <string name="button_try_again_text">Try again?</string>
+    <string name="your_number_label">Your number is</string>
+    <string name="bottom_nav_game_text">Game</string>
+    <string name="bottom_nav_scores_text">Scores</string>
+    <string name="bottom_nav_game_rules_text">Game rules</string>
+</resources>
