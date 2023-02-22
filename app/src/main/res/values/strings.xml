@@ -14,4 +14,22 @@
     <string name="bottom_nav_game_text">Game</string>
     <string name="bottom_nav_scores_text">Scores</string>
     <string name="bottom_nav_game_rules_text">Game rules</string>
+    <string name="how_to_play_this_game_text">How to play this game?</string>
+    <string name="game_rules_list"> 1. This game was made to test your luck and to find out have lucky you are
+        \n 2. This game based on simple probability theory to find out your chances in guessing the right number in range from 1 to 100
+        \n 3. You may change addition to subtraction in any moment by pressing "+" sign
+        \n 4. Try to have fun </string>
+    <string name="game_rules_text_label">Game rules</string>
+    <string name="application_logo_content_desc">application logo</string>
+    <string name="search_action">Search</string>
+    <string name="game_result_type_hint">win or loose</string>
+    <string name="game_number_hint">1</string>
+    <string name="player_number_hint">1</string>
+    <string name="game_number_text_label">Game number</string>
+    <string name="game_result_text_label">Game result</string>
+    <string name="your_number_text_label">Your number</string>
+    <string name="game_scores_tab_label">Game scores</string>
+    <string name="game_score_icon_description">Game score icon</string>
+    <string name="game_start_nuber">1</string>
+    <string name="error_network">Network access is required for the application to work</string>
 </resources>
